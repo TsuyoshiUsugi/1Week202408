@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5669c1211f3dd5b4ab449c2aecd6cf1f, type: 3}
+  m_Name: BackgroundThemaData
+  m_EditorClassIdentifier: 
+  obstacles: {fileID: 4306952573220751891, guid: 7b958b5f781d88b429fb680261e26003,
+    type: 3}
+  wall: {fileID: 4306952573220751891, guid: 7b958b5f781d88b429fb680261e26003, type: 3}
+  ground: {fileID: 1484015458581378240, guid: 214622fc945b75d468e8ea95d259f7d3, type: 3}
+  stairs: {fileID: 9132190418106213652, guid: c127e9d773ced48499e7786efdb5cc4d, type: 3}
